@@ -361,7 +361,10 @@ Footer area css
   .section-heading h2 {
     font-size: 28px;
   }
-
+  .about-image img {
+    width: 300px;
+    margin-bottom: 25px;
+  }
   /* Contact area */
 
   .contact-content form {
@@ -383,8 +386,4 @@ Footer area css
     width: 300px;
   }
   /* About area */
-  .about-image {
-    width: 300px;
-    margin-bottom: 25px;
-  }
 }
