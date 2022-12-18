@@ -140,7 +140,7 @@ Header area css
   font-size: 55px;
   color: #fff;
 }
-.hero-image {
+.hero-image img {
   width: 500px;
 }
 /*
@@ -160,7 +160,7 @@ Header area css
   display: flex;
   align-items: center;
 }
-.about-image {
+.about-image img {
   flex: 1;
 }
 .about-text {
@@ -382,7 +382,7 @@ Footer area css
   .hero-text h2 {
     font-size: 28px;
   }
-  .hero-image {
+  .hero-image img {
     width: 300px;
   }
   /* About area */
