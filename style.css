@@ -146,6 +146,7 @@ Header area css
 /*
  End hero area css
  */
+
 /*
  About area css
  */
@@ -153,14 +154,11 @@ Header area css
   background-color: #1e1345;
   padding: 100px 0;
 }
-.about-image img {
-  width: 500px;
-}
 .about-content {
   display: flex;
   align-items: center;
 }
-.about-image img {
+.about-image {
   flex: 1;
 }
 .about-text {
